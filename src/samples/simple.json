@@ -1,0 +1,36 @@
+{
+  "number": 123456,
+  "string": {
+    "text": "Hello, World!",
+    "URL": "https://json-visual-editor-new.netlify.app/",
+    "image": "https://picsum.photos/200/300.jpg"
+  },
+  "null": null,
+  "boolean": {
+    "true": true,
+    "false": false
+  },
+  "array": ["apple", "orange", "banana"],
+  "object": {
+    "name": "John",
+    "age": 32,
+    "isMarried": true
+  },
+  "nested objects": {
+    "object": {
+      "object": {
+        "object": {
+          "object": {
+            "object": {
+              "object": {
+                "object": {
+                  "color": "red"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

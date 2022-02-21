@@ -8,7 +8,6 @@ import { EditButtons } from '../VisualizedData/EditButtons';
 // import { Path, EditType } from '../types';
 import { ValueEditor } from '../VisualizedData/ValueEditor';
 import { useSelector, useDispatch } from 'react-redux';
-import { RootState } from '..';
 import { dataSlice } from '../features/data/dataSlice';
 import { KeyEditButtons } from '../VisualizedData/KeyEditButtons';
 import { KeyEditor } from '../VisualizedData/KeyEditor';

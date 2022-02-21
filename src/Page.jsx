@@ -3,7 +3,6 @@ import TextArea from './TextArea';
 import VisualizedData from './VisualizedData/VisualizedData';
 import { Header } from './Header';
 import { useSelector, useDispatch } from 'react-redux';
-import { RootState } from '.';
 import { textareaSlice } from './features/textarea/textareaSlice';
 
 const minFrameWidth = 100;

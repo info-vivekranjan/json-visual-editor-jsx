@@ -1,4 +1,4 @@
-import React, { useCallback, SyntheticEvent } from 'react';
+import React, { useCallback } from 'react';
 import { useDispatch } from 'react-redux';
 // import { Path, EditType } from '../types';
 import { dataSlice } from '../features/data/dataSlice';

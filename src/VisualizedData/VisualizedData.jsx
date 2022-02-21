@@ -1,7 +1,6 @@
 import React from 'react';
 import ObjectType from '../object/ObjectType';
 import { useSelector } from 'react-redux';
-import { RootState } from '..';
 
 const VisualizedData = () => {
   const data = useSelector((state) => state.data.data);

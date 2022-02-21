@@ -1,4 +1,4 @@
-import { createSlice, PayloadAction } from '@reduxjs/toolkit';
+import { createSlice } from '@reduxjs/toolkit';
 import _ from 'lodash';
 import SampleJson from '../../samples/simple.json';
 // import { Path, EditMode, EditType } from '../../types';

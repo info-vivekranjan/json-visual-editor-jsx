@@ -1,6 +1,6 @@
 {
-  "name": "counter-redux-toolkit",
-  "version": "0.1.0",
+  "name": "json-visual-editor",
+  "version": "2.0.0",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",

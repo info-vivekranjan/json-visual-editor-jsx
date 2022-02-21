@@ -1,4 +1,4 @@
-import React, { ChangeEvent } from 'react';
+import React from 'react';
 
 const BooleanType = ({ data, readOnly = true, onChange }) => {
   return (

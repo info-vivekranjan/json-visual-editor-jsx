@@ -3,7 +3,6 @@ import { useDispatch, useSelector } from 'react-redux';
 import Clipboard from 'clipboard';
 import { saveAs } from 'file-saver';
 import OptionMenu from './OptionMenu';
-import { RootState } from '.';
 import { dataSlice } from './features/data/dataSlice';
 import { ValidityType, textareaSlice } from './features/textarea/textareaSlice';
 
